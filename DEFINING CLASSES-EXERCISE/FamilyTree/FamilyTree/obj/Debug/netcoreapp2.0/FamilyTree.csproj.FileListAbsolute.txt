@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\FamilyTree\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

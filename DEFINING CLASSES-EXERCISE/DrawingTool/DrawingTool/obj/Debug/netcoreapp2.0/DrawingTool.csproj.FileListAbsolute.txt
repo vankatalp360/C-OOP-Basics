@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DrawingTool\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.pdb

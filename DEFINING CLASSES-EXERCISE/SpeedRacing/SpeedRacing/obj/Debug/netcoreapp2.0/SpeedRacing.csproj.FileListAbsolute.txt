@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\SpeedRacing\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.pdb

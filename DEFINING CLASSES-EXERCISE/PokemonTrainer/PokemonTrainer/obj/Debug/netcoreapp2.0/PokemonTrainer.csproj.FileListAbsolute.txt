@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\PokemonTrainer\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb

@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\bin\Debug\netcoreapp2.0\CatLady.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\bin\Debug\netcoreapp2.0\CatLady.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\bin\Debug\netcoreapp2.0\CatLady.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\CatLady\CatLady\obj\Debug\netcoreapp2.0\CatLady.pdb

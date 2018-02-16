@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\DEFINING CLASSES-EXERCISE\DefineAClassPerson\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.pdb
