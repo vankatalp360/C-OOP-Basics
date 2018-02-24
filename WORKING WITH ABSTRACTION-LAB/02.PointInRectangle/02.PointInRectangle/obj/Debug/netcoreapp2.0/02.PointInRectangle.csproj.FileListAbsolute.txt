@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\02.PointInRectangle\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb

@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

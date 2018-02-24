@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\bin\Debug\netcoreapp2.0\03.ValidateOfData.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\bin\Debug\netcoreapp2.0\03.ValidateOfData.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\bin\Debug\netcoreapp2.0\03.ValidateOfData.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\bin\Debug\netcoreapp2.0\03.ValidateOfData.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\bin\Debug\netcoreapp2.0\03.ValidateOfData.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\obj\Debug\netcoreapp2.0\03.ValidateOfData.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\obj\Debug\netcoreapp2.0\03.ValidateOfData.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\obj\Debug\netcoreapp2.0\03.ValidateOfData.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\obj\Debug\netcoreapp2.0\03.ValidateOfData.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\03.ValidateOfData\obj\Debug\netcoreapp2.0\03.ValidateOfData.pdb

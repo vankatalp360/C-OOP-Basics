@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.pdb

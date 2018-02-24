@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.pdb

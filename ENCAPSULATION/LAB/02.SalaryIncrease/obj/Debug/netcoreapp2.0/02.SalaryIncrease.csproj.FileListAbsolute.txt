@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.pdb

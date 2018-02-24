@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-EXERCISES\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojResolveAssemblyReference.cache

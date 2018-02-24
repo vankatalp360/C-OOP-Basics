@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\WORKING WITH ABSTRACTION-LAB\04.HotelReservation\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.pdb

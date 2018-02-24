@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\bin\Debug\netcoreapp2.0\04.FirstAndReserveTeam.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\bin\Debug\netcoreapp2.0\04.FirstAndReserveTeam.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\bin\Debug\netcoreapp2.0\04.FirstAndReserveTeam.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\bin\Debug\netcoreapp2.0\04.FirstAndReserveTeam.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\bin\Debug\netcoreapp2.0\04.FirstAndReserveTeam.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\LAB\04.FirstAndReserveTeam\obj\Debug\netcoreapp2.0\04.FirstAndReserveTeam.pdb

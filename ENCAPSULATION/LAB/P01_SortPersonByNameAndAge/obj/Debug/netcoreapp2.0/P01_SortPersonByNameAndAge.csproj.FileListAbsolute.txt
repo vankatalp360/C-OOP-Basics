@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\bin\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\bin\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\bin\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\bin\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\bin\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION-LAB\P01_SortPersonByNameAndAge\P01_SortPersonByNameAndAge\obj\Debug\netcoreapp2.0\P01_SortPersonByNameAndAge.pdb

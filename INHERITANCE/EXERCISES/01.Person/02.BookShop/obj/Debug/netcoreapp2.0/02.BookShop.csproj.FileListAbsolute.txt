@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.pdb

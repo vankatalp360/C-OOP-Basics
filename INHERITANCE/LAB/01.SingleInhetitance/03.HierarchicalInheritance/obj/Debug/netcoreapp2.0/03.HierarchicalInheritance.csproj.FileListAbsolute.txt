@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\bin\Debug\netcoreapp2.0\03.HierarchicalInheritance.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\LAB\01.SingleInhetitance\03.HierarchicalInheritance\obj\Debug\netcoreapp2.0\03.HierarchicalInheritance.pdb

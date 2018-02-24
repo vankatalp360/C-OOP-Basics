@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.pdb

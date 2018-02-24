@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\ENCAPSULATION\EXERCISE\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csprojResolveAssemblyReference.cache
