@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.pdb

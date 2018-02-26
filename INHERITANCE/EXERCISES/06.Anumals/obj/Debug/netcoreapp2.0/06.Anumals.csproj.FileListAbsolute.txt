@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\bin\Debug\netcoreapp2.0\06.Anumals.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\bin\Debug\netcoreapp2.0\06.Anumals.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\bin\Debug\netcoreapp2.0\06.Anumals.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\bin\Debug\netcoreapp2.0\06.Anumals.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\bin\Debug\netcoreapp2.0\06.Anumals.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\06.Anumals\obj\Debug\netcoreapp2.0\06.Anumals.pdb

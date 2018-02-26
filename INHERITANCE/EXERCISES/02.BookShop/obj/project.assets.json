@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\02.BookShop\\02.BookShop.csproj",
+      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\02.BookShop\\02.BookShop.csproj",
       "projectName": "02.BookShop",
-      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\02.BookShop\\02.BookShop.csproj",
+      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\02.BookShop\\02.BookShop.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\02.BookShop\\obj\\",
+      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\02.BookShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

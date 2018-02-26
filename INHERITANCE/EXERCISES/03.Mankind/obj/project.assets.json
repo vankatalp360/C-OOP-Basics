@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\03.Mankind\\03.Mankind.csproj",
+      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\03.Mankind\\03.Mankind.csproj",
       "projectName": "03.Mankind",
-      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\03.Mankind\\03.Mankind.csproj",
+      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\03.Mankind\\03.Mankind.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\03.Mankind\\obj\\",
+      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\03.Mankind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

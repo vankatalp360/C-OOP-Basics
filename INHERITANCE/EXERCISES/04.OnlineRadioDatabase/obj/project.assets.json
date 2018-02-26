@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\04.OnlineRadioDatabase\\04.OnlineRadioDatabase.csproj",
+      "projectUniqueName": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\04.OnlineRadioDatabase\\04.OnlineRadioDatabase.csproj",
       "projectName": "04.OnlineRadioDatabase",
-      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\04.OnlineRadioDatabase\\04.OnlineRadioDatabase.csproj",
+      "projectPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\04.OnlineRadioDatabase\\04.OnlineRadioDatabase.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\01.Person\\04.OnlineRadioDatabase\\obj\\",
+      "outputPath": "D:\\Users\\Asus\\Desktop\\Проекти\\C-OOP-Basics\\INHERITANCE\\EXERCISES\\04.OnlineRadioDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

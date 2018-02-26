@@ -9,3 +9,14 @@ D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Perso
 D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
 D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb
 D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INHERITANCE\EXERCISES\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb
