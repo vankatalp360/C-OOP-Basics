@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.pdb

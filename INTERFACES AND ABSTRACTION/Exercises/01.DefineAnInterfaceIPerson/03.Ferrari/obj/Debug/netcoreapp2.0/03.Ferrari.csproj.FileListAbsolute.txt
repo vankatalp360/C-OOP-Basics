@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.pdb

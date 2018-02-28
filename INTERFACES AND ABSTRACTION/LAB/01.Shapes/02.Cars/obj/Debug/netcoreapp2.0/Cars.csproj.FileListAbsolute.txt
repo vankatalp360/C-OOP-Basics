@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\bin\Debug\netcoreapp2.0\Cars.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\bin\Debug\netcoreapp2.0\Cars.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\bin\Debug\netcoreapp2.0\Cars.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\LAB\01.Shapes\Cars\obj\Debug\netcoreapp2.0\Cars.pdb

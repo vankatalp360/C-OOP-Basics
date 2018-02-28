@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb
