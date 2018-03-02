@@ -1,27 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
 public class Smartphone : ICallable, IBrowsable
 {
-    public string Model { get; set; }
-
-    public Smartphone(string model)
-    {
-        Model = model;
-    }
-    
-
     public void Call(string number)
     {
-        number = Validator.ValidatePhoneNumber(number);
-        Console.WriteLine($"Calling... {number}");
+        if (number.All(d => char.IsDigit(d)))
+            Console.WriteLine($"Calling... {number}");
+        else
+            Console.WriteLine("Invalid number!");
     }
 
-    public void Browse(string site)
+    public void Browse(string website)
     {
-        site = Validator.ValidateURL(site);
-        Console.WriteLine($"Browsing: {site}!");
+        if (website.Any(c => char.IsDigit(c)))
+            Console.WriteLine("Invalid URL!");
+        else
+            Console.WriteLine($"Browsing: {website}!");
     }
 }

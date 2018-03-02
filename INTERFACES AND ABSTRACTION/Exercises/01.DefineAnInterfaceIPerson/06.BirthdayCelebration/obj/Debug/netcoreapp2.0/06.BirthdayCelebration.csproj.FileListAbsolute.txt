@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\INTERFACES AND ABSTRACTION\Exercises\01.DefineAnInterfaceIPerson\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.csprojResolveAssemblyReference.cache
