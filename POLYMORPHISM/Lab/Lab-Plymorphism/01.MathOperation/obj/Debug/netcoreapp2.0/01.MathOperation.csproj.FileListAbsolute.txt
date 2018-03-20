@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Lab\Lab-Plymorphism\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.pdb

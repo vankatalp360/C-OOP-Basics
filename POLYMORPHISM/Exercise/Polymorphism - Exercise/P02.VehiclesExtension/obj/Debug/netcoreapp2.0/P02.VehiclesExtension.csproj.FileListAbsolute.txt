@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\bin\Debug\netcoreapp2.0\P02.VehiclesExtension.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\bin\Debug\netcoreapp2.0\P02.VehiclesExtension.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\bin\Debug\netcoreapp2.0\P02.VehiclesExtension.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\bin\Debug\netcoreapp2.0\P02.VehiclesExtension.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\bin\Debug\netcoreapp2.0\P02.VehiclesExtension.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P02.VehiclesExtension\obj\Debug\netcoreapp2.0\P02.VehiclesExtension.pdb

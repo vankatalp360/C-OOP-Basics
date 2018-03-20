@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Exam-Preparatiop-1\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb

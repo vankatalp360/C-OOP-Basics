@@ -1,0 +1,15 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\Workshop\Forum\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.pdb

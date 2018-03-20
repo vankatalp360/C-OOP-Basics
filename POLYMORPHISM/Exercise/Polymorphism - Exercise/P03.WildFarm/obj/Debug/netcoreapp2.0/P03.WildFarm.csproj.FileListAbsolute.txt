@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\bin\Debug\netcoreapp2.0\P03.WildFarm.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\bin\Debug\netcoreapp2.0\P03.WildFarm.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\bin\Debug\netcoreapp2.0\P03.WildFarm.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\bin\Debug\netcoreapp2.0\P03.WildFarm.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\bin\Debug\netcoreapp2.0\P03.WildFarm.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Basics\POLYMORPHISM\Exercise\Polymorphism - Exercise\P03.WildFarm\obj\Debug\netcoreapp2.0\P03.WildFarm.pdb
