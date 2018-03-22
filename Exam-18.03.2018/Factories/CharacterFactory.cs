@@ -6,27 +6,36 @@ namespace DungeonsAndCodeWizards.Factories
 {
     public class CharacterFactory
     {
-        public Character CreateCharacter(string faction, string type, string name)
+        public CharacterFactory()
         {
-            if (!Enum.TryParse<Faction>(faction, out var parsedFaction))
-            {
-                throw new ArgumentException($"Invalid faction \"{faction}\"!");
-            }
+            
+        }
+        public Character CreateCharacter(string factionParam, string typeParam, string nameParam)
+        {
+            Faction faction;
+            var factionCurrect = Faction.TryParse(factionParam, out faction);
+            var type = typeParam;
+            var name = nameParam;
 
-            Character character;
-            switch (type)
+            if (!factionCurrect)
             {
-                case "Warrior":
-                    character = new Warrior(name, parsedFaction);
-                    break;
-                case "Cleric":
-                    character = new Cleric(name, parsedFaction);
-                    break;
-                default:
-                    throw new ArgumentException($"Invalid character type \"{type}\"!");
+                throw new ArgumentException($"Invalid faction \"{factionParam}\"!");
             }
-
-            return character;
+            if (type != "Warrior" && type != "Cleric")
+            {
+                throw new ArgumentException(/*string.Format(Inputs.InvalidCaracterType, type)*/$"Invalid character type \"{type}\"!");
+            }
+            if (type == "Warrior")
+            {
+                var warrior = new Warrior(name, faction);
+                return warrior;
+            }
+            else
+            {
+                var cleric = new Cleric(name, faction);
+                return cleric;
+            }
+            
         }
     }
 }

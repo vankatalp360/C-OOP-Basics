@@ -7,28 +7,24 @@ namespace DungeonsAndCodeWizards.Characters
 {
     public class Cleric : Character, IHealable
     {
-        public Cleric(string name, Faction faction)
-            : base(name, health: 50, armor: 25, abilityPoints: 40, bag: new Backpack(), faction: faction)
+        public override double RestHealMultiplier => 0.5;
+
+        public Cleric(string name, Faction faction) 
+            :base(name, 50, 25, 40, new Backpack(), faction)
         {
         }
 
-        protected override double RestHealMultiplier => 0.5;
-
         public void Heal(Character character)
         {
-            this.EnsureAlive();
-
-            if (!character.IsAlive)
-            {
-                throw new InvalidOperationException("Must be alive to perform this action!");
-            }
+            this.CheckIsAlive();
+            character.CheckIsAlive();
 
             if (this.Faction != character.Faction)
             {
-                throw new InvalidOperationException("Cannot heal enemy character!");
+                throw new InvalidOperationException(Inputs.HealEnemy);
             }
-
-            character.Health = Math.Min(character.BaseHealth, character.Health + this.AbilityPoints);
+            var healPoints = this.AbilityPoints;
+            character.IncreaseHealth(healPoints);
         }
     }
 }

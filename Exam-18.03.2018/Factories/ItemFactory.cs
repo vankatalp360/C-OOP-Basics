@@ -5,25 +5,32 @@ namespace DungeonsAndCodeWizards.Factories
 {
     public class ItemFactory
     {
-        public Item CreateItem(string name)
+        public ItemFactory()
         {
-            Item item;
-            switch (name)
+            
+        }
+        public Item CreateItem(string nameParam)
+        {
+            var name = nameParam;
+            if (name != "HealthPotion" && name != "PoisonPotion" && name != "ArmorRepairKit")
             {
-                case "HealthPotion":
-                    item = new HealthPotion();
-                    break;
-                case "PoisonPotion":
-                    item = new PoisonPotion();
-                    break;
-                case "ArmorRepairKit":
-                    item = new ArmorRepairKit();
-                    break;
-                default:
-                    throw new ArgumentException($"Invalid item \"{name}\"!");
+                throw new ArgumentException(/*string.Format(Inputs.InvalidItemType, name)*/$"Invalid item \"{name}\"!");
             }
-
-            return item;
+            if (name == "HealthPotion")
+            {
+                var healthPotion = new HealthPotion();
+                return healthPotion;
+            }
+            else if (name == "PoisonPotion")
+            {
+                var poisonPotion = new PoisonPotion();
+                return poisonPotion;
+            }
+            else
+            {
+                var armorRepairKit = new ArmorRepairKit();
+                return armorRepairKit;
+            }
         }
     }
 }

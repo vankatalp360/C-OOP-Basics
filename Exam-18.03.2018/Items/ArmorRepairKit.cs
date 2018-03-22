@@ -9,10 +9,11 @@ namespace DungeonsAndCodeWizards.Items
         {
         }
 
-        public void AffectCharacter(Character character)
+        public override void AffectCharacter(Character character)
         {
             base.AffectCharacter(character);
-            character.Armor = character.BaseArmor;
+
+            character.RepairArmor();
         }
     }
 }

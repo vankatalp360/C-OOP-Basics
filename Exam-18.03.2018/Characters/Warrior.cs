@@ -14,23 +14,19 @@ namespace DungeonsAndCodeWizards.Characters
 
         public void Attack(Character character)
         {
-            this.EnsureAlive();
+            this.CheckIsAlive();
+            character.CheckIsAlive();
 
-            if (character == this)
+            if (this.Name == character.Name)
             {
-                throw new InvalidOperationException("Cannot attack self!");
+                throw new InvalidOperationException(Inputs.AttackSelf);
             }
-
-            this.EnsureNoFriendlyFire(character);
-
-            character.TakeDamage(this.AbilityPoints);
-        }
-        private void EnsureNoFriendlyFire(Character character)
-        {
             if (this.Faction == character.Faction)
             {
-                throw new ArgumentException($"Friendly fire! Both characters are from {this.Faction} faction!");
+                throw new ArgumentException(string.Format(Inputs.AttackSameFaction, this.Faction));
             }
+            var hitPoints = this.AbilityPoints;
+            character.TakeDamage(hitPoints);
         }
     }
 }
